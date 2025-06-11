@@ -1,1 +1,1 @@
-# telegram-redirect
+# wealth-guide
